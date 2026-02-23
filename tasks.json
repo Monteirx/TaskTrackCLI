@@ -1,4 +1,4 @@
-{"id":2,"description":"Comprar ovo","status":"TODO","createdAt":"2026-02-22T14:02:43.542952800","updatedAt":"2026-02-22T14:02:43.542952800"}
-{"id":2,"description":"Comprar leite","status":"TODO","createdAt":"2026-02-22T14:03:16.779026300","updatedAt":"2026-02-22T14:03:16.779026300"}
-{"id":3,"description":"Comprar macarrao","status":"TODO","createdAt":"2026-02-22T14:03:32.085945600","updatedAt":"2026-02-22T14:03:32.086941800"}
-{"id":4,"description":"Comprar arroz","status":"TODO","createdAt":"2026-02-22T14:03:48.977802","updatedAt":"2026-02-22T14:03:48.977802"}
+{"id":3,"description":"Comprar macarrao","status":"TODO","createdAt":"2026-02-23T19:13:17.871535","updatedAt":"2026-02-23T19:13:17.871535"}
+{"id":4,"description":"Comprar arroz","status":"TODO","createdAt":"2026-02-23T19:13:17.871535","updatedAt":"2026-02-23T19:13:17.871535"}
+{"id":5,"description":"Comprar feijão","status":"TODO","createdAt":"2026-02-23T19:13:17.871535","updatedAt":"2026-02-23T19:13:17.871535"}
+{"id":6,"description":"Estudar java e Spring","status":"IN_PROGRESS","createdAt":"2026-02-23T19:13:17.871535","updatedAt":"2026-02-23T19:13:17.871535"}
